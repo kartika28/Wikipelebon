@@ -1350,7 +1350,7 @@ section {
 # Gallery Single Section
 --------------------------------------------------------------*/
 #gallery-single .container {
-  padding-top: 80px;
+  padding-top: 110px;
 }
 
 .gallery-single .portfolio-details-slider img {
@@ -1398,6 +1398,14 @@ section {
 .gallery-single .swiper-button-next:hover:after {
   background-color: rgba(0, 0, 0, 0.6);
 }
+
+.gallery-single .portfolio-details-slider img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
 
 @media (max-width: 575px) {
   .gallery-single .swiper-button-prev,
@@ -1527,6 +1535,14 @@ section {
 
 .gallery-single .portfolio-description p {
   text-align: justify;
+}
+
+.page-header {
+  margin-bottom: -80px; /* Reduce the margin at the bottom of the page-header */
+}
+
+#gallery-single {
+  margin-top: -40px; /* Adjust the negative margin at the top of the gallery-single */
 }
 
 
