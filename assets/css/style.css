@@ -1350,7 +1350,7 @@ section {
 # Gallery Single Section
 --------------------------------------------------------------*/
 #gallery-single .container {
-  padding-top: 110px;
+  padding-top: 80px;
 }
 
 .gallery-single .portfolio-details-slider img {
@@ -1386,7 +1386,7 @@ section {
   background-color: rgba(0, 0, 0, 0.2);
   font-size: 24px;
   border-radius: 50%;
-  width: 48px;
+  width: 10px;
   height: 48px;
   display: flex;
   align-items: center;
