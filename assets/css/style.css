@@ -1525,6 +1525,11 @@ section {
   padding: 0;
 }
 
+.gallery-single .portfolio-description p {
+  text-align: justify;
+}
+
+
 /*--------------------------------------------------------------
 # Chefs
 --------------------------------------------------------------*/
@@ -1916,4 +1921,19 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+.card-body-fixed-height {
+  height: 200px; 
+  overflow: hidden; 
+}
+
+.custom-card-color {
+  background-color: #cda45e; 
+}
+
+.custom-color {
+  background-color: #28251f;
+  border: 2px solid #28251f; 
+  color: #fff; 
 }
