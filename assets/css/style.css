@@ -1406,7 +1406,6 @@ section {
   margin: 0 auto; /* Center the image horizontally */
 }
 
-
 @media (max-width: 575px) {
   .gallery-single .swiper-button-prev,
   .gallery-single .swiper-button-next {
@@ -1544,7 +1543,6 @@ section {
 #gallery-single {
   margin-top: -40px; /* Adjust the negative margin at the top of the gallery-single */
 }
-
 
 /*--------------------------------------------------------------
 # Chefs
