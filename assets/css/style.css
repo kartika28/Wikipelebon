@@ -1529,7 +1529,6 @@ section {
   text-align: justify;
 }
 
-
 /*--------------------------------------------------------------
 # Chefs
 --------------------------------------------------------------*/
@@ -1924,16 +1923,16 @@ section {
 }
 
 .card-body-fixed-height {
-  height: 200px; 
-  overflow: hidden; 
+  height: 200px;
+  overflow: hidden;
 }
 
 .custom-card-color {
-  background-color: #cda45e; 
+  background-color: #cda45e;
 }
 
 .custom-color {
   background-color: #28251f;
-  border: 2px solid #28251f; 
-  color: #fff; 
+  border: 2px solid #28251f;
+  color: #fff;
 }
