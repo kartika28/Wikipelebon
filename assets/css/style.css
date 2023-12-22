@@ -645,7 +645,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding:20px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -1350,7 +1350,7 @@ section {
 # Gallery Single Section
 --------------------------------------------------------------*/
 #gallery-single .container {
-  padding-top: 110px;
+  padding-top: 150px;
 }
 
 .gallery-single .portfolio-details-slider img {
